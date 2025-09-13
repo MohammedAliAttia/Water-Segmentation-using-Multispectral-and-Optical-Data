@@ -163,4 +163,4 @@ For questions, collaboration opportunities, or technical support, please reach o
 
 ---
 
-**Water Segmentation Project** | Multispectral Remote Sensing | Deep Learning | September 2024
+**Water Segmentation Project** | Multispectral Remote Sensing | Combuter Vision | September 2025
